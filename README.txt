@@ -62,4 +62,10 @@ npm start
 - Đăng nhập bằng tài khoản Firebase.
 - Thêm thiết bị và phân quyền quản lý cho nhân viên theo phòng ban.
 - Quản lý thiết bị từ màn hình chính, bao gồm xem chi tiết, chỉnh sửa, và xóa thiết bị.
-
+# Tài khoản ADMIN và USER ( để test )
+ADMIN:
+Email: huy735671@gmail.com
+Mật khẩu : 123456
+USER:
+Email: annguyen@gmail.com
+Mật khẩu: 123321
